@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**EmmanuelV9/EmmanuelV9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img src="https://img.shields.io/badge/Data%20Analyst-%20-blue?style=for-the-badge&logo=data&logoColor=white"/>  
 # Emmanuel Villarreal
