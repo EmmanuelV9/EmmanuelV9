@@ -1,15 +1,12 @@
-## Hi there 👋
+## Hi there👋 Soy Emmanuel, ¡Encantado de conocerte!👋
 
 
 <img src="https://img.shields.io/badge/Data%20Scientist-%20-blue?style=for-the-badge&logo=data&logoColor=white"/>  
-# Emmanuel Villarreal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-villarreal-47055a124)  
-[![Portfolio](https://img.shields.io/badge/PORTAFOLIO-WEB-green?style=for-the-badge)](https://tuportafolio.com)
 
 ---
 
-## 👋 ¡Hola! Soy Emmanuel, ¡Encantado de conocerte!
+ Soy Emmanuel, ¡Encantado de conocerte!
 
 🎯 Apasionado por los datos y la resolución de problemas a través de la programación y el análisis estadístico.  
 🔢 Disfruto aplicar conceptos de probabilidad y estadística usando herramientas como **Machine Learning**, **Python** y **SQL** para encontrar soluciones significativas.  
@@ -21,6 +18,9 @@
 🏗️ Además, cuento con **9 años de experiencia en arquitectura**, diseño y construcción de **vivienda en serie, residencial y vertical**, con un extenso portafolio de proyectos ejecutados.
 
 ---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-villarreal-47055a124)  
+[![Portfolio](https://img.shields.io/badge/PORTAFOLIO-WEB-green?style=for-the-badge)](https://tuportafolio.com)
 
 ## 🛠 Lenguajes y herramientas:
 
