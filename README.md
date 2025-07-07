@@ -1,4 +1,4 @@
-## Hi there👋 Soy Emmanuel, ¡Encantado de conocerte!👋
+## Hi there!👋 
 
 
 <img src="https://img.shields.io/badge/Data%20Scientist-%20-blue?style=for-the-badge&logo=data&logoColor=white"/>  
