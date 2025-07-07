@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<img src="https://img.shields.io/badge/Data%20Analyst-%20-blue?style=for-the-badge&logo=data&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Data%20Scientist-%20-blue?style=for-the-badge&logo=data&logoColor=white"/>  
 # Emmanuel Villarreal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-villarreal-47055a124)  
