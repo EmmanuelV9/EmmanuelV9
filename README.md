@@ -1,13 +1,10 @@
-## Hi there!👋 
+## Hola! Soy Emmanuel, ¡Encantado de conocerte!👋 
 
 
 <img src="https://img.shields.io/badge/Data%20Scientist-%20-blue?style=for-the-badge&logo=data&logoColor=white"/>  
 
 
 ---
-
- Soy Emmanuel, ¡Encantado de conocerte!
-
 🎯 Apasionado por los datos y la resolución de problemas a través de la programación y el análisis estadístico.  
 🔢 Disfruto aplicar conceptos de probabilidad y estadística usando herramientas como **Machine Learning**, **Python** y **SQL** para encontrar soluciones significativas.  
 📊 Me motivan los retos que permiten conectar las matemáticas y la informática con una visión estratégica para la toma de decisiones en los negocios.  
