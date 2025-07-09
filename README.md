@@ -17,7 +17,8 @@
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-villarreal-47055a124)  
-[![Portfolio](https://github.com/EmmanuelV9/Proyectos)]
+[![Portfolio](https://img.shields.io/badge/Portafolio-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmmanuelV9/Proyectos)
+
 
 ## 🛠 Lenguajes y herramientas:
 
