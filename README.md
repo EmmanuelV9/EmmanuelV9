@@ -16,7 +16,7 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-villarreal-martinez-47055a124)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-villarreal-martinez-datascientist)  
 [![Portfolio](https://img.shields.io/badge/Portafolio-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmmanuelV9/Proyectos)
 
 
